@@ -1,6 +1,8 @@
 # -Video-Recommendation-Algorithm-Assignment
 This assignment for Persist Ventures Artificial Intelligence (AI) internship
-**MODEL**
+
+# Model
+
 The  Video Recommender system  employs a hybrid recommendation model that combines elements of collaborative filtering and content-based filtering. Below, I’ll break down the components of the model, explain how they work together.
 
 Hybrid Recommendation Model:
