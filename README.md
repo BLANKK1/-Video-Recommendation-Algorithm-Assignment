@@ -21,3 +21,21 @@ While the current model is robust, there are several potential enhancements that
 
 Advanced Collaborative Filtering: Implement matrix factorization techniques (e.g., Singular Value Decomposition, SVD) to uncover latent factors in user-item interactions.
 
+# Algorithm
+
+The recommendation algorithm is a hybrid approach combining multiple techniques:
+- Collaborative Filtering
+- Content-Based Filtering
+- Popularity-Based Recommendation
+- Similarity-Driven Recommendation
+
+Algorithm Steps:
+1. Data Collection
+2. Interaction Matrix Construction
+3. Feature Extraction
+4. Similarity Calculation
+5. Recommendation Score Generation
+6. Recommendation Ranking
+
+**Time Complexity: O(n^2)
+Space Complexity: O(n * m)**
