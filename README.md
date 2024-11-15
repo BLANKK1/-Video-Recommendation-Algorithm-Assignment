@@ -37,5 +37,5 @@ Algorithm Steps:
 5. Recommendation Score Generation
 6. Recommendation Ranking
 
-**Time Complexity: O(n^2)
-Space Complexity: O(n * m)**
+**Time Complexity: O(n^2)**
+**Space Complexity: O(n * m)**
